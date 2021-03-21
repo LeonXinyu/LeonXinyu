@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonXinyu
-- 👀 I’m interested in Game, Learing, Triathlon
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Game, Learing, Triathlon.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
